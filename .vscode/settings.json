@@ -3,5 +3,6 @@
     "azureFunctions.projectLanguage": "Python",
     "azureFunctions.projectRuntime": "~2",
     "debug.internalConsoleOptions": "neverOpen",
-    "azureFunctions.preDeployTask": "func: pack"
+    "azureFunctions.preDeployTask": "func: pack",
+    "python.pythonPath": "D:\\myTemp\\azurefunc_python\\azf_py3\\Scripts\\python.exe"
 }
