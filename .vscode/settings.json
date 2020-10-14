@@ -1,7 +1,8 @@
 {
-    "azureFunctions.deploySubpath": "PythonDemo.zip",
+    "azureFunctions.deploySubpath": ".",
+    "azureFunctions.scmDoBuildDuringDeployment": true,
+    "azureFunctions.pythonVenv": ".venv",
     "azureFunctions.projectLanguage": "Python",
     "azureFunctions.projectRuntime": "~3",
-    "debug.internalConsoleOptions": "neverOpen",
-    "azureFunctions.preDeployTask": "func: pack"
+    "debug.internalConsoleOptions": "neverOpen"
 }
