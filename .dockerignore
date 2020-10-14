@@ -1,0 +1,10 @@
+local.settings.json
+.dockerignore
+Dockerfile
+**/__pycache__/
+*.pyc
+.git/
+.venv/
+.vscode/
+screenshot/
+*.md
